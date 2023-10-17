@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ActiMV" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ActiMV" parent="Base.Theme.ActiMV" />
+    <style name="Theme.MVVMExample" parent="Theme.MaterialComponents.DayNight.NoActionBar">    </style>
+
+
+</resources>
